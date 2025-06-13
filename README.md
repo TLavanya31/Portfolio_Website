@@ -27,5 +27,5 @@ It’s a fully responsive and interactive website built with **HTML, CSS, and Ja
 
 ## 🔹Live Demo
 
-[View Live Demo]([https://your-live-demo-link.com](https://jade-medovik-dceab1.netlify.app/))
+[View Live Demo](https://jade-medovik-dceab1.netlify.app/)
 
